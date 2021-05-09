@@ -20,7 +20,7 @@
     --text-white: #e5e5e5c5;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400|Barlow+Condensed:400');
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Barlow+Condensed');
 
 html {font-size: 87.5%;} /*14px*/
 
