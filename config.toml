@@ -1,0 +1,19 @@
+baseURL = ""
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+title = "SPARK"
+theme = "holo"
+
+enableEmoji = true
+
+[author]
+  name = "qreoct"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  enableMathJax = true

@@ -1,0 +1,36 @@
+{{ partial "header" . }}
+
+{{ partial "mathjax" . }}
+
+<div class="flex-container">
+<section id="main">
+  <div class="upper">
+    <div class="title">
+      <h1 id="title">{{ .Title }}</h1>
+    </div>
+
+    <div class="meta">
+      <h4 id="meta__date"> {{ .Date.Format "Monday Jan 2" }} </h4>
+      <h5 id="meta__wordcount"> {{ .WordCount }} Words </h5>
+    </div>
+  </div>
+  <div>
+    <hr />
+        <article id="content">
+           {{ .Content }}
+        </article>
+  </div>
+</section>
+<aside id="meta">
+    <div>
+        {{ with .PrevInSection }}
+          <a class="meta__previous" href="{{.Permalink}}"> < Previous Post </a>
+        {{ end }}
+        {{ with .NextInSection }}
+          <a class="meta__next" href="{{.Permalink}}"> Next Post > </a>
+        {{ end }}
+    </div>
+</aside>
+</div>
+
+{{ partial "footer" . }}

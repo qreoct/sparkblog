@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPARK</title>
+    <link>/</link>
+    <description>Recent content on SPARK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 May 2021 14:19:04 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About SPARK</title>
+      <link>/post/001-helloworld/</link>
+      <pubDate>Thu, 06 May 2021 14:19:04 +0800</pubDate>
+      
+      <guid>/post/001-helloworld/</guid>
+      <description>Hello! We are Jefferson &amp;amp; Rui Quan, two Year 1 Computer Science students from NUS.
+In a bout of procrastination, we have decided to start a blog. This blog will serve as a development log of our Orbital project, and probably something to waste time on when we&amp;rsquo;re tired of working on the app itself.
+What is Orbital?  Orbital (a.k.a., CP2106: Independent Software Development Project) is the School of Computing’s 1st year summer self-directed, independent work course.</description>
+    </item>
+    
+    <item>
+      <title>?!</title>
+      <link>/post/000-whatsthis/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/000-whatsthis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
