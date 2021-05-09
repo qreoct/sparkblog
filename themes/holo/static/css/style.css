@@ -161,16 +161,16 @@ article > h2{
     padding-right: 20px;
 }
 
-article > h2:nth-child(2n+1) {
+article > h2:nth-of-type(2n+1) {
     background-image: var(--gradient-amber);
 }
-article > h2:nth-child(3n+2) {
+article > h2:nth-of-type(3n+2) {
     background-image: var(--gradient-jade);
 }
-article > h2:nth-child(5n+3) {
+article > h2:nth-of-type(5n+3) {
     background-image: var(--gradient-topaz);
 }
-article > h2:nth-child(7n+5){
+article > h2:nth-of-type(7n+5){
     background-image: var(--gradient-amethyst);
 }
 
