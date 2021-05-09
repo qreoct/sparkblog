@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+    <div class="site__container">
+        {{- partial "header.html" . -}}
+
+        {{- block "main" . }}
+            {{ partial "homepage.html" . }}
+        {{- end }}
+    </div>
+
+    </body>
+</html>

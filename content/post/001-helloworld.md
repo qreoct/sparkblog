@@ -1,7 +1,9 @@
 ---
 title: "About SPARK"
-date: 2021-05-06T14:19:04+08:00
+date: 2021-05-06
 description: "About this project"
+draft: false
+type: "post"
 ---
 
 Hello! We are Jefferson & Rui Quan, two Year 1 Computer Science students from NUS.
@@ -26,7 +28,7 @@ Our app is called SPARK, and we hope that it will be a bold call to people to as
 
 ## This blog
 
-This blog will be a development log for SPARK. It uses the static site generator Hugo, and is hosted on Netlify. The theme was created from scratch, and all code can be found on Github.
+This blog will be a development log for SPARK. It uses the static site generator Hugo, and is hosted on Netlify. The theme was created from scratch, and source code containing the theme can be found on [Github](https://github.com/qreoct/sparkblog) :)
 
 We aim to post:
 1. weekly development logs of our progress
