@@ -383,6 +383,7 @@ article img{
 
 .footer__logo {
     height:150px;
+    background: url(../img/Logo_white.svg);
 }
 
 .footer__logo:not(:hover){
