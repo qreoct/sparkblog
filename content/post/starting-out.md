@@ -2,6 +2,7 @@
 title: "Starting Out"
 date: 2021-05-17T13:27:30+08:00
 draft: true
+type: page
 ---
 
 ## Create React App
