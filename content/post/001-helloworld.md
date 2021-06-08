@@ -8,7 +8,7 @@ type: "post"
 
 Hello! We are [Jefferson](https://github.com/qreoct) & Rui Quan, two Year 1 Computer Science students from NUS.
 
-In a bout of procrastination, we have decided to start a blog. This blog will serve as a development log of our Orbital project, and probably something to waste time on when we're tired of working on the app itself. 
+In a bout of procrastination, we have decided to start a blog. This blog will serve as a development log of our Orbital project, and probably something to waste time on when we're tired of working on the app itself.
 
 ## What is Orbital?
 
